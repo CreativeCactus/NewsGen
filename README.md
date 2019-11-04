@@ -16,3 +16,7 @@ You can also modify `config.js` to change the default configuration used by [`ht
 
 Note: Automatic argument shifting might differ by platform.
 Check the shebang (when running directly) and call `./index.js`
+
+## Example
+
+![example](./example.png "Example output")
