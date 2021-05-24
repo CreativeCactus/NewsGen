@@ -19,4 +19,4 @@ Check the shebang (when running directly) and call `./index.js`
 
 ## Example
 
-![example](./example.png "Example output")
+![example](./output.png "Example output")
